@@ -1,0 +1,33 @@
+
+
+/*div {*/
+/*    outline: 1px solid orangered;*/
+/*    background: aquamarine;*/
+/*}*/
+
+/*div > div > div  {*/
+/*    background: aliceblue;*/
+/*}*/
+
+#root {
+    border: 10px solid springgreen;
+    width: 700px;
+    height: 500px;
+    margin: 0 auto;
+    padding: 4px;
+    border-radius: 12px;
+}
+
+button {
+    display: inline-block;
+    background-color: #9c41fd;
+    outline: none;
+    border: none;
+    border-radius: 8px;
+}
+
+.piece {
+    /*display: inline-block;*/
+    border-radius: 50%;
+    position: absolute;
+}
